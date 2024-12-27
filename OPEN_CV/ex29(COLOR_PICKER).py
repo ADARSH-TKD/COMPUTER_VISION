@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 def color(x):
-    pass
+    pas
 img=np.ones((500,500,3),np.uint8)*255
 cv2.namedWindow("color")
 
